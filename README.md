@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm A10Xx
 
-<!--
-**A10Xx/A10Xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python enthusiast and aspiring software developer currently doing my SIWES. Here are some of the beginner-friendly projects I've built to grow my skills:
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [🧮 Calculator App](https://github.com/A10Xx/calculator-app): Basic arithmetic calculator in the terminal.
+- [✅ To‑Do App](https://github.com/A10Xx/todo-app): Command-line task manager to add and remove tasks.
+- [🎯 Number Guessing Game](https://github.com/A10Xx/number-guessing-game): Fun terminal game that challenges you to guess a random number.
+
+---
+
+## 💡 About Me
+
+- 🧠 Learning Python through real-world projects
+- 💼 SIWES intern, open to learning more tools and technologies
+- 🔧 Interested in automation, problem-solving, and tech innovations
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: [A10Xx](https://github.com/A10Xx)
+  
+
